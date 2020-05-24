@@ -5,11 +5,6 @@ import cn.hutool.json.JSONArray;
 import cn.hutool.json.JSONObject;
 import cn.hutool.json.JSONUtil;
 import com.chaofan.websocket.Web.MyWebSocket;
-
-/**
- * Created by Chaofan at 2018-09-26 15:40
- * email:chaofan2685@qq.com
- **/
 public class BingImageUtil {
 
     /**

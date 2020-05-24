@@ -3,9 +3,6 @@ package com.chaofan.websocket;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
-/**
- * Created by Chaofan at 2018/7/17 2:03
- **/
 public class SpringBootStartApplication extends SpringBootServletInitializer {
 
     @Override

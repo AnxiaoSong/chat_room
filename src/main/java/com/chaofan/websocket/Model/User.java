@@ -4,10 +4,6 @@ import com.chaofan.websocket.Web.MyWebSocket;
 
 import java.util.Objects;
 
-/**
- * Created by Chaofan at 2018/7/6 10:08
- * email:chaofan2685@qq.com
- **/
 public class User {
 
     public String id;
